@@ -18,16 +18,6 @@ Compares 3 different models:
 - Collaborative Filtering Model
 - Matrix Factorization Model (SVD)
 
-## report
-
-This is a detailed report that explains the overall project, including:
-
-- System Interaction and Components
-- System, Feature, and Model Goals
-- Pipeline Overview
-- Model and Dataset Choices
-- Design Choices
-- Component Interaction and Adaptability
 
 ##  EDA
 
